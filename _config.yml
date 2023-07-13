@@ -1,0 +1,9 @@
+# Site setting
+title: My sample GITHUB page
+author:
+ Name: Surya
+ email: suryapraba.ace@gmail.com
+description: My sample page
+
+# Build settings
+remote_theme: jekyll/minima
